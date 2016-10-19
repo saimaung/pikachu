@@ -1,4 +1,4 @@
 *.class
 .idea/
-./project/
-./target/
+.project/
+.target/
